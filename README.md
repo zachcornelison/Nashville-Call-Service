@@ -1,6 +1,8 @@
 # Nashville-Call-Service
 Analytics report of 2019 911 calls for service in Nashville, TN
 
+Link to Tableau Dashboard: https://public.tableau.com/profile/zach.cornelison#!/vizhome/2019NashvilleCallsforTheft/Dashboard1
+
 Link to the 2019 Calls for Service dataset can be found here: https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Calls-for-Servic/h92w-r6hq
 
 Link to the 2018 Calls for Service dataset can be found here: https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Calls-for-Servic/kqb6-kd6q
